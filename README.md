@@ -24,7 +24,7 @@ py -3.11 -m venv .venv
 Activate a virtual environment:
 .\.venv\Scripts\activate
 <ul>
-<li>Install dependencies:</li>
+Install dependencies:
 <li>py -m pip install --upgrade pip setuptools wheel</li>
 <li>py -m pip install -r requirements.txt</li>
 </ul>
